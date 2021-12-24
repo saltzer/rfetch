@@ -1,3 +1,3 @@
 # rfetch
 
-![Prewiev](https://github.com/saltzer/projects/blob/main/rust_projects/rfetch/prewiev.png)
+![Prewiev](https://github.com/saltzer/rfetch/blob/main/rfetch.png)
